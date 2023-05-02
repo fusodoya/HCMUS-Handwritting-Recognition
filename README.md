@@ -73,6 +73,3 @@ You now have a ```lib.so``` file. Keep this file and ```main_optimze.py``` file 
 Run ```main_optimize.py``` file instead of ```main.py``` file.
 
 The only difference between these files is ```main.py``` runs ```guess()``` function in ```Python```, but in ```main_optimize.py```, the ```guess()``` function calls the ```guess_optimize()``` function written by **C++** in ```lib.so```.
-
----
-source: Thang Nguyen
